@@ -1,6 +1,6 @@
 # Cloud Backup Architecture  
 
-This project documents a secure cloud backup system design similar to what I built at ScienCell.  
+This project documents a secure cloud backup system design similar to what I built at ScieneCell.  
 It showcases skills in cloud architecture, storage planning, automation, system hardening, and disaster recovery.
 
 ## 📦 Project Components  
